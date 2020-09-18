@@ -1,0 +1,2 @@
+resource/ngram/unigram.txt filter=lfs diff=lfs merge=lfs -text
+resource/ngram/bigram.txt filter=lfs diff=lfs merge=lfs -text
